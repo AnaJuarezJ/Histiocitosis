@@ -834,3 +834,7 @@ p {
   margin-bottom: 1px;
 }
 
+#enviar_formulario:hover
+{
+  background-color:#a27d42; /* Color de fondo al pasar el cursor */
+}
